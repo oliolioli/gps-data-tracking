@@ -1,11 +1,3 @@
-/* 
-Please do not change the name of this file. 
-
-Name (of all group members): Olivier Meier
-Date: 27.3.2023
-Program runs (yes or no, because): yes
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

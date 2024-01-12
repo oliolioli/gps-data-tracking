@@ -1,5 +1,5 @@
 # GPS-data-tracking
-Deal with GPS trajectories, measure and convert them.
+Deals with GPS trajectories, measures and converts them.
 
 ## What does it do?
 Reads an entire file (CSV) of GPS coordinates from different trajectories.

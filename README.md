@@ -8,7 +8,7 @@ The CSV is expected to be in the following format:
 
 ### Example CSV
 
-'''
+```
 [Latitude, Longitude, Height [m]]
 
 46.02541193,7.481110095,2012.0
@@ -17,7 +17,7 @@ The CSV is expected to be in the following format:
 46.02578000,7.481170000,2012.0
 46.02577000,7.481020000,2015.0
 46.02571000,7.480950000,2016.0
-'''
+```
 
 ### Calculating difference in altitude between departure and arrival
 - Calculates and displays the difference between the altitude of departure and that of arrival.
